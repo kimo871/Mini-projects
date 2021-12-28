@@ -1,7 +1,7 @@
 # Landing Page Project
 ## Description :
 
-Project required for practicing and applying what i have learnt n js including es6 methods
+Project required for practicing and applying what i have learnt in js including es6 methods
 
 ### Instruction to run :
 
